@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/frontend.iml" filepath="$PROJECT_DIR$/frontend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-backend/java-backend.iml" filepath="$PROJECT_DIR$/java-backend/java-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-hack-2025.iml" filepath="$PROJECT_DIR$/mini-hack-2025.iml" />
     </modules>
   </component>
